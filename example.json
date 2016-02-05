@@ -1,0 +1,47 @@
+[
+  {
+    "deleted": false,
+    "email": "foo2@foo2.com",
+    "followers": [],
+    "following": [
+      {
+        "follow_id": "SqwoOklfsPUEXC0rRVcNiDdh7Pj"
+      }
+    ],
+    "message_cache": [
+      {
+        "author_key": "RBlVhVrpEQPLSphAKoa6Ck3GyFO",
+        "mail": "foo1@foo1.com",
+        "text": "hey ne haber millet",
+        "timestamp": 1454661004901916,
+        "username": "foo1"
+      }
+    ],
+    "message_set": [],
+    "password": "pbkdf2:sha1:1000$HNOPIYOK$ed2a2508723746f56aaab38ebca1c1663b1512df",
+    "timestamp": 1454661004901835,
+    "username": "foo2"
+  },
+  {
+    "deleted": false,
+    "email": "foo1@foo1.com",
+    "followers": [
+      {
+        "follow_id": "SqwoOklfsPUEXC0rRVcNiDdh7Pj"
+      }
+    ],
+    "following": [],
+    "message_cache": [],
+    "message_set": [
+      {
+        "message_id": "J4eUl2OXKAh5lFxOFrXbbYmdUKD"
+      },
+      {
+        "message_id": "Js4eI4QW1MdzOu0v49zPzUE3woe"
+      }
+    ],
+    "password": "pbkdf2:sha1:1000$5qJZwdSf$b96a5d6a689e73df57e99f0b6dbf7d7b2f0d640a",
+    "timestamp": 1454661004863788,
+    "username": "foo1"
+  }
+]
